@@ -1,4 +1,6 @@
 # Machine Learning
+**Creation date: 2022-03-01**
+
 Machine learning laboratory exercises at AGH University of Science and Technology
 
 What it covers?
