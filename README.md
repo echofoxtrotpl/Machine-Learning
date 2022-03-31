@@ -1,4 +1,4 @@
-# Machine-Learning
+# Machine Learning
 Machine learning laboratory exercises at AGH University of Science and Technology
 
 What it covers?
